@@ -22,12 +22,7 @@
 |<a href="https://github.com/W00Seok2"><img src="https://img.shields.io/badge/W00Seok2-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/hscho9"><img src="https://img.shields.io/badge/hscho9-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/Hanyoonho"><img src="https://img.shields.io/badge/Hanyoonho-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/sejin03 "><img src="https://img.shields.io/badge/sejin03-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/npcno2 "><img src="https://img.shields.io/badge/npcno2-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
 
 # 💾 **오픈소스소프트웨어 보고서** 
-| 번호 | 과제 내용 |
-|---|---|
-| 01 | [OSS 개요](https://github.com/OSS2G/OSS2G_RP/blob/e95a374043cba82dba1886d168acf0157e751fcb/OSS%20%EA%B0%9C%EC%9A%94.md) |
-| 02 | [OSS 역사](https://github.com/OSS2G/OSS2G_RP/blob/e95a374043cba82dba1886d168acf0157e751fcb/OSS%20%EC%97%AD%EC%82%AC.md)|
-| 03 | [대표적 OSS 소개](https://github.com/OSS2G/OSS2G_RP/blob/e95a374043cba82dba1886d168acf0157e751fcb/%EB%8C%80%ED%91%9C%EC%A0%81%20OSS%20%EC%86%8C%EA%B0%9C.md) |
-| 04 | [OSS 저작권](https://github.com/OSS2G/OSS2G_RP/blob/e95a374043cba82dba1886d168acf0157e751fcb/OSS%20%EC%A0%80%EC%9E%91%EA%B6%8C.md) |
+   👉 [**바로가기**](https://github.com/OSS2G/OSS2G_RP/blob/main/README.md) 👈
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W00Seok2&layout=compact)](https://github.com/W00Seok2/github-readme-stats)
  

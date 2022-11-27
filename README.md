@@ -1,7 +1,7 @@
 # WELCOME TO OSS2G PAGE! 👋
 
 
-![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=OSS2G&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+![rounded](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=OSS2G&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
 
 #### 언어 및 도구

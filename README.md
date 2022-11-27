@@ -1,4 +1,4 @@
-### Hi there 👋
+#WELCOME TO OSS2G PAGE! 👋
 
 <!--
 **OSS2G/OSS2G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS2G&layout=compact)](https://github.com/OSS2G/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 
+[![Py](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=blue)](github.com/Joowon0220/TODO-List)
+
+ 

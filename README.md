@@ -11,18 +11,14 @@
  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
  
 
- #### 방문자수
+ #### 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOSS2G&count_bg=%2379C83D&title_bg=%2339758C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 # our member
-|학번|이름|학과|깃허브주소|
-|:------:|:-:|:---:|:---:|
-|20221687|최우석|빅데이터경영과|https://github.com/W00Seok2|
-|20222594|조호성|빅데이터경영과|https://github.com/hscho9|
-|20221672|한윤호|빅데이터경영과|https://github.com/Hanyoonho|
-|20221668|김세진|빅데이터경영과|https://github.com/sejin03|
-|20211547|김 건|빅데이터경영과|https://github.com/npcno2|  
+|최우석|조호성|한윤호|김세진|김건|
+|---|---|---|----|---|
+|<a href="https://github.com/W00Seok2"><img src="https://img.shields.io/badge/W00Seok2-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/hscho9"><img src="https://img.shields.io/badge/hscho9-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/Hanyoonho"><img src="https://img.shields.io/badge/Hanyoonho-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/sejin03 "><img src="https://img.shields.io/badge/sejin03-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/npcno2 "><img src="https://img.shields.io/badge/npcno2-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
   ___
  
  

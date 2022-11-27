@@ -24,7 +24,7 @@
 # 💾 **오픈소스소프트웨어 보고서** 
 | 번호 | 과제 내용 |
 |---|---|
-| 01 | [OSS 개요](https://github.com/oneteam123nkj/OSS-report/blob/main/OSS%20%EA%B0%9C%EC%9A%94.md) |
+| 01 | [OSS 개요](https://github.com/OSS2G/OSS2G_RP/blob/e95a374043cba82dba1886d168acf0157e751fcb/OSS%20%EA%B0%9C%EC%9A%94.md) |
 | 02 | [OSS 역사](https://github.com/oneteam123nkj/OSS-report/blob/main/OSS%20%EC%97%AD%EC%82%AC.md)|
 | 03 | [대표적 OSS 소개](https://github.com/oneteam123nkj/OSS-report/tree/main/%EB%8C%80%ED%91%9C%EC%A0%81%20oss%20%EC%86%8C%EA%B0%9C) |
 | 04 | [OSS 저작권](https://github.com/oneteam123nkj/OSS-report/tree/main/%EB%8C%80%ED%91%9C%EC%A0%81%20oss%20%EC%86%8C%EA%B0%9C) |

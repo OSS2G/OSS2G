@@ -1,4 +1,4 @@
-#WELCOME TO OSS2G PAGE! 👋
+# WELCOME TO OSS2G PAGE! 👋
 
 ## Rounded <a id="rounded">
 ![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=OSS2G&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)

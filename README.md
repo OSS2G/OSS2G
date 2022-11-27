@@ -16,7 +16,13 @@
 
 
 # our member
-
+|학번|이름|학과|깃허브주소|
+|:------:|:-:|:---:|:---:|
+|20221687|최우석|빅데이터경영과|https://github.com/W00Seok2|
+|20222594|조호성|빅데이터경영과|https://github.com/hscho9|
+|20221672|한윤호|빅데이터경영과|https://github.com/Hanyoonho|
+|20221668|김세진|빅데이터경영과|https://github.com/sejin03|
+|20211547|김 건|빅데이터경영과|https://github.com/npcno2|  
   ___
  
  
